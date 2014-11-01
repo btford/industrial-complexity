@@ -1,0 +1,14 @@
+{
+  "name": "industrial-complexity",
+  "version": "0.0.0",
+  "description": "follow @ComplexIndustry",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Ford <btford@umich.edu>",
+  "license": "MIT",
+  "dependencies": {
+    "twitter": "^0.2.13"
+  }
+}
